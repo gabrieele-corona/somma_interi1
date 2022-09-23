@@ -30,7 +30,7 @@
    	ris = num1 + num2;
    	
    	//Output: un numero intero
-   	printf("la somma dei due numeri e' %d, ris");
+   	printf("la somma dei due numeri e' %d", ris);
    	
    	//terminiamo il programma
    	return 0;  	
